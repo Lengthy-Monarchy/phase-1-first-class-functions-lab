@@ -1,11 +1,11 @@
 // Code your solution in this file!
 const  returnFirstTwoDrivers = function anonymousFunction([]){
-    return (['Antonia', 'Nuru']);
+    return (['Mary', 'Marie']);
     
     }
     
     const  returnLastTwoDrivers = function anonymousFunction([]){
-        return (['Amari', 'Mo']);
+        return (['Sophie', 'Catherien']);
     
     }
     const selectingDrivers =[returnFirstTwoDrivers,returnLastTwoDrivers];
